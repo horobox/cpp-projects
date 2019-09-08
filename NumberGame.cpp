@@ -1,5 +1,5 @@
 /* The guessing game board
-	Written by: Shreevathsa
+	Written by: Shreevathsa.
 */
 #include<iostream>
 #include<iomanip>
